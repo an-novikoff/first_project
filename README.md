@@ -8,9 +8,9 @@ more more text.
 
 #New partition
 ---
-*Cursive* or _Cursive_
-**Bold** or __Bold__
-~~**_Text_**~~
+*Cursive* or _Cursive_  
+**Bold** or __Bold__  
+~~**_Text_**~~  
 
 1. First
 2. Second
