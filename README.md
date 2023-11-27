@@ -6,7 +6,7 @@ more text<br>
 more more text.
 
 
-#New partition
+# New partition
 ---
 *Cursive* or _Cursive_  
 **Bold** or __Bold__  
